@@ -10,6 +10,7 @@ Nosso objetivo central é otimizar o processo terapêutico, tornando-o **mais ob
 https://drive.google.com/file/d/1YV_jJ4SjUAc98YboVDGaRq-4WS5iA1ZR/view?usp=sharing
 
 ## 🎥 Vídeo Explicativo:
+https://www.canva.com/design/DAG6mNNgWXg/MK8dVg0zBAgZqMl7hW77WQ/edit?utm_content=DAG6mNNgWXg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 ## 🛠️ Componentes Principais
 
@@ -41,14 +42,14 @@ Voltado para a **Clínica** e o **Profissional**, o TEAHub é um sistema adminis
 
 #### 👥 Autores
 
-* Lia Rachel 
+* Lia Rachel
+* Pamella Roberta
+* Julia Beatriz
 * Ângelo Assis 
 * Giovane Ferreira 
 * Guilherme Edilson 
 * João Vitor Rodrigues
-* Julia Beatriz
 * Késsedy Rodrigues 
-* Pamella Roberta 
 * Thiago Borges 
 
 **Data: 05/12/2025**
