@@ -42,13 +42,13 @@ Voltado para a **Clínica** e o **Profissional**, o TEAHub é um sistema adminis
 #### 👥 Autores
 
 * Lia Rachel 
-* Ângelo Assis
-* Giovane Ferreira
-* Guilherme Edilson
+* Ângelo Assis 
+* Giovane Ferreira 
+* Guilherme Edilson 
 * João Vitor Rodrigues
 * Julia Beatriz
-* Késsedy Rodrigues
-* Pamella Roberta
-* Thiago Borges
+* Késsedy Rodrigues 
+* Pamella Roberta 
+* Thiago Borges 
 
 **Data: 05/12/2025**
