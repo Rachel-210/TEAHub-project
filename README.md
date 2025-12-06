@@ -38,7 +38,6 @@ Voltado para a **Clínica** e o **Profissional**, o TEAHub é um sistema adminis
 | **Acesso Restrito** (RF-020, RN-004) | Login seguro do paciente via CPF validado pela clínica, garantindo rastreabilidade. |
 
 ---
-*Este projeto foi desenvolvido como parte da disciplina de Análise e Projeto de Software.*
 
 #### 👥 Autores
 
