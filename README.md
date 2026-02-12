@@ -9,9 +9,6 @@ Nosso objetivo central é otimizar o processo terapêutico, tornando-o **mais ob
 ## 💾 Documento Completo: 
 https://drive.google.com/file/d/1YV_jJ4SjUAc98YboVDGaRq-4WS5iA1ZR/view?usp=sharing
 
-## 🎥 Vídeo Explicativo:
-https://www.canva.com/design/DAG6mNNgWXg/MK8dVg0zBAgZqMl7hW77WQ/edit?utm_content=DAG6mNNgWXg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
-
 ## 🛠️ Componentes Principais
 
 O sistema é dividido em duas interfaces que se integram de forma contínua:
