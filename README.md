@@ -42,7 +42,6 @@ Voltado para a **Clínica** e o **Profissional**, o TEAHub é um sistema adminis
 * Lia Rachel
 * Pamella Roberta
 * Julia Beatriz
-* Ângelo Assis 
 * Giovane Ferreira 
 * Guilherme Edilson 
 * João Vitor Rodrigues
